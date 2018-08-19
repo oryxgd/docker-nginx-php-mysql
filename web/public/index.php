@@ -35,7 +35,7 @@ echo '<tr><td align="right">City:  </td><td><h2> '.$city.'</h2></td></tr><tr><td
 
 if($kitamirke != 1) { ?>
 
-<script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/336x280_responsive.js"></script>
+    <!-- <script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/336x280_responsive.js"></script>-->
 
 </td></tr>
 
@@ -49,7 +49,7 @@ echo '<tr><td align="right">Timezone:  </td><td><h2> '.$timezone.'</h2></td></tr
 
 echo '<tr><td align="right"></td><td>';
 ?>
-<script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/336x280_responsive.js"></script>
+<!-- <script data-cfasync="false" type="text/javascript" src="//www.increaserev.com/ads/336x280_responsive.js"></script> -->
 <br />
 <?php
 echo '</td></tr>';
