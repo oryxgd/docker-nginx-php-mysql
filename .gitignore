@@ -24,3 +24,6 @@ nbproject/
 
 # SSL Certs
 etc/ssl/
+
+#conf
+etc/nginx/default.conf
